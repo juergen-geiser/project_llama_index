@@ -1,0 +1,3 @@
+Python ist eine beliebte Programmiersprache für KI und Datenanalyse.
+Maschinelles Lernen ist ein Teilgebiet der KI.
+LlamaIndex ist ein Framework für Retrieval-Augmented Generation (RAG).
